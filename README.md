@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-💻 Backend Engineer with **7+ years** of experience designing and building scalable distributed systems and cloud-native applications.
+💻 Backend Engineer with **~7 years** of experience designing and building scalable distributed systems and cloud-native applications.
 
 ☁️ Experienced in:
 - Python
