@@ -138,20 +138,6 @@ vSphere
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=poojaacoder&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojaacoder&layout=compact&theme=tokyonight"/>
-
-<img height="180em" src="https://streak-stats.demolab.com/?user=poojaacoder&theme=tokyonight"/>
-
-</div>
-
----
-
 # 🌱 Currently Exploring
 
 - Advanced Kubernetes Networking
@@ -168,6 +154,8 @@ vSphere
 - ☁️ Passionate about cloud-native engineering
 - 🛠️ Love debugging distributed systems
 - 📚 Always exploring new backend technologies
+- ⛰️ If I'm not working, I'm either in the mountains or on beaches
+- 🎒 Solo traveler who loves exploring new places
 
 ---
 
