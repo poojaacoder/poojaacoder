@@ -24,7 +24,7 @@
 - Distributed Systems
 - Microservices
 
-🔐 Currently working at **Cisco** on security cloud and provisioning workflows.
+🔐 Currently working at **Cisco** on Duo Provisioning workflows.
 
 🌩️ Previously worked at **VMware** on Tanzu multi-cloud platform and infrastructure automation.
 
