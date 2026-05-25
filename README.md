@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Engineer+with+~+7%2B+Years+Experience;Cloud+%26+Distributed+Systems+Engineer;Kubernetes+%7C+Docker+%7C+AWS+%7C+Azure;Building+Scalable+Microservices;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Engineer+with+Around+7+Years+Experience;Cloud+%26+Distributed+Systems+Engineer;Kubernetes+%7C+Docker+%7C+AWS+%7C+Azure;Building+Scalable+Microservices;Always+Learning+New+Things" />
 
 </div>
 
