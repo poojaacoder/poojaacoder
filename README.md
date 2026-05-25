@@ -14,6 +14,9 @@
 💻 Backend Engineer with **7+ years** of experience designing and building scalable distributed systems and cloud-native applications.
 
 ☁️ Experienced in:
+- Python
+- Node JS
+- Shell Scripting
 - AWS
 - Azure
 - Kubernetes
